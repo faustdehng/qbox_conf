@@ -1,4 +1,11 @@
-# qbox_conf
+# title
+  It works for Elixir on raspberry pi 3
+  - Onf of the best web servers for raspberry pi 3
+  
+# abstract
+  This topic is used for demostrate that Elixir works fine in raspberry pi. I develop a generalized player in raspberry, and use Elixir to build the web server, and then, any web browser can control the product. The system works fine, and, therefor, I think it is helpful for person who want to develop such application. My goals in this talk: 1) demo it works, 2) appreciate to the forum, it is very helpful to me in developing, 3) announce a resource (me), I am glad to provide my experience to any person insterested.
+  
+# Information
 Qbox data for conference
 
 Elixir:- One of the best web servers for raspberry pi 3
