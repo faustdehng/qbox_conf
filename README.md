@@ -3,7 +3,7 @@
   - a practice for remote control
   
 # abstract
-  This topic is used to demostrate that Elixir works fine in raspberry pi. I develop a generalized player in raspberry, and use Elixir to build the web server, and then, any web browser can control the product. The system works fine, and, therefor, I think it is helpful for person who want to develop such application. Because the application almoust includes all functions of raspberry interfaces (besides GPIO), such as: wifi, bluetooth, touch screen, USB, database, voice, HDMI, so, it is a good exaamle to demostrate the Elixir and raspberry. My goals in this talk are: 1) demo it works, 2) appreciate to the forum, it is very helpful to me in developing, 3) announce a resource (me), I am glad to provide my experience to any person insterested.
+  This topic is used to demostrate that Elixir works fine on raspberry pi. I develop a generalized player on raspberry named QBox, and use Elixir to build the web server, and then, any web browser can control the product remotely. This system works fine, and, therefore, I think it is helpful for person who want to develop such application. Because this application almoust includes all functions of raspberry interfaces (besides GPIO), such as: wifi, bluetooth, touch screen, USB, database, voice, HDMI, so, it is a good practice to demostrate the ability about Elixir on raspberry. My goals in this talk are: 1) present it works, 2) appreciate to the forum, it is very helpful to me in developing, 3) announce a resource (me), I am glad to provide my experience to any person insterested.
   
 # Information
 Qbox data for conference
@@ -24,7 +24,7 @@ Elixir functions used
 * NIF, Port for external program
 
 Functions used in this application
-* Wifi (Gateway, Syncronization)
+* Wifi (wireless Access Point, Syncronization)
 * Bluetooth (speaker)
 * Touch screen
 * mp4 player
