@@ -42,6 +42,6 @@ Profits
 Demo pictures
 * Controller (PC, tablet, phone)
 * Screen
-* Product
+* Product
 
 Thanks
